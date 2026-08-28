@@ -1,0 +1,14 @@
+{
+  "name": "prova-oo-js",
+  "version": "1.0.0",
+  "description": "Avaliacao de Orientacao a Objetos em JavaScript",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
+
+
